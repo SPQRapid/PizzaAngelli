@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pizza Angelli</string>
+    <string name="description">Do you have unexpected guests? Nothing apetising in the fridge? Order now !</string>
+    <string name="special">Special Offer : order 1 pizza get 1 free !</string>
+    <string name="address">Address: Soveja Street nr 27</string>
+
+
+</resources>
